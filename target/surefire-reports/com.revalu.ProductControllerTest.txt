@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: com.revalu.ProductControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 3.834 s <<< FAILURE! - in com.revalu.ProductControllerTest
+testSearchByTag  Time elapsed: 0.59 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expecting actual not to be empty
+	at com.revalu.ProductControllerTest.testSearchByTag(ProductControllerTest.java:47)
+
+testSearchByCategory  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expecting actual not to be empty
+	at com.revalu.ProductControllerTest.testSearchByCategory(ProductControllerTest.java:40)
+
+testShowAll  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expecting actual not to be empty
+	at com.revalu.ProductControllerTest.testShowAll(ProductControllerTest.java:33)
+

@@ -1,0 +1,6 @@
+com\revalu\RevaluCodeChallengeApplication.class
+com\revalu\controller\ProductController.class
+com\revalu\repository\ProductRepository.class
+com\revalu\model\Category.class
+com\revalu\config\DataInitializer.class
+com\revalu\model\Product.class
